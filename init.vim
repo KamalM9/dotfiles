@@ -17,6 +17,9 @@ call plug#end()
 "endif
 syntax enable
 
+" Set hybrid line numbers
+set nu rnu
+
 " Set colorscheme
 colorscheme nord
 
